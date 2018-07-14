@@ -8,13 +8,13 @@ tags:
   - travel
   - karakoram
 ---
-Wstęp
+# Wstęp
 
 Gdyby ktoś rok temu mi powiedział, że pojadę do Pakistańskiego Karakorum by zdobywać tam dziewicze szczyty, uznałbym to za dobry żart. Czas i doświadczenia całkowicie zmieniają moje spojrzenie na tę wyprawę. To co jeszcze miesiąc temu wydawało się ogromnym wyzwaniem i szczytem możliwości, dziś jawi się jako wspaniała przygoda. Łatwo nie było, ale wszystkie problemy i przeciwności którym musiałem sprostać tylko dodają mi motywacji na przyszłość.
 Czy pojechałbym jeszcze raz? Choćby jutro.
 Czy pojadę? Plany na kolejne wyprawy już się tworzą, jeśli tylko zdrowie pozwoli to nie będzie mi trzeba dwa razy powtarzać.
 
-Przed wyprawą.
+# Przed wyprawą
 
 Jest piątek wieczór, 12 stycznia, do plecaka wrzucam uprząż i buty, dzisiaj wspinamy się na panelu. Przed wyjściem szybki rzut oka na wiadomości, jedna z nich przykuwa moją szczególną uwagę. Polski Klub Alpejski (PKA) organizuje wyprawę w Karakorum by uczcić 100-lecie niepodległości… Tego wieczoru nie myślałem już o niczym innym, kalkulowałem czas i pieniądze, ale gdzieś podświadomie wiedziałem już jaką podejmę decyzję.
 
@@ -26,7 +26,8 @@ Skąd wziąć kasę? No cóż jeśli się nie jest pięknym i sławnym to więks
 
 Kolejnym organizacyjnym zadaniem jakie stoi przed każdym kto chce postawić stopę na Pakistańskiej ziemi jest załatwienie wizy do tego kraju. Proces nie wyróżnia się praktycznie niczym szczególnym, w ambasadzie Pakistanu w Warszawie należy złożyć swój paszport, wypełniony wniosek, 4 swoje zdjęcia oraz zaproszenie od naszego gospodarza w Pakistanie. Dla nas takie zaproszenie napisał nasz późniejszy przewodnik - Karim. Czytałem jednak że istnieją specjalne “agencje” które za odpowiednią opłatą wystawiają takie świstki.
 
-Treningi
+# Treningi
+
 Jak przygotować się do takiej wyprawy pod względem fizycznym? Osobiście wyznaję jedną prostą zasadę, jeśli chcemy być w czymś dobrzy to musimy robić to jak najdłużej i jak najczęściej. Idą tym tropem, jeśli chcemy być dobrzy w “chodzeniu po górach” to powinniśmy dużo chodzić po górach. Plan genialny, bo przecież w ten sposób łączymy przyjemne z pożytecznym. Jednak problem pojawia się wtedy gdy odkrywamy, że mamy przecież pracę zawodową i szereg innych zobowiązań przez które częste, całodniowe wspinaczki nie wchodzą w rachubę. Szukamy więc zamienników, ciągle jak najdłużej, ale żeby zostało jeszcze czasu żeby się wyspać, oczywiście jak najczęściej ale żeby nie zaniedbać (za bardzo) innych obowiązków.
 
 U mnie w repertuarze treningowym można było wyróżnić:
@@ -40,10 +41,15 @@ Kiedy tylko był czas, całodniowe wypady w góry, tutaj pomagał fakt, że w Al
 
 Każdego tygodnia celowałem w 7 dni treningowych, co w praktyce dawało 5 do 6 dni w których udawało mi się znaleźć motywację i czas żeby się ruszyć. Takie przygotowanie pozwoliło mi sprostać wyprawie, jednakże moja forma była daleka od tego co chciałem osiągnąć. Z perspektywy czasu widzę, że za dużo czasu poświęciłem na treningi siłowe i górnej części ciała, a z mało na treningi wytrzymałościowe. Dłuższe sesje w górach i biegowe są moim zdaniem (w kontekście takich wypraw) ważniejsze niż zabawy na drążku. Chociaż, podobno dzień bez 100 podciągnięć to dzień stracony...
 
-16 Maja - Dzień 0 - Jedziemy do Berlina
+# 16 Maja - Dzień 0 - Jedziemy do Berlina
 
-Dzień zaczynam od długiego leżakowania w wygodnym łóżku, przez jakiś czas nie zaznam takich luksusów. Mój wzrok ląduje na podłodze <ZDJĘCIE ROZPIERDOLU W POKOJU>, wczoraj zostawiłem pakowanie w fazie największego chaosu. Wszędzie walają się ubrania i sprzęt górski, na samą myśl że będę musiał upchnąć to wszystko do leżącej w rogu wielkiej żółtej torby i mniejszego szarego plecaka mam ochotę nie wychodzić z łóżka.
-Jednak kilka godzin później udaj się jakoś domknąć zamek. Jedzenie <ZDJĘCIE JEDZENIA> już się nie zmieściło, ląduje więc w bagażu podręcznym, podobnie jak kilka innych rzeczy potrzebnych w podróży.
+Dzień zaczynam od długiego leżakowania w wygodnym łóżku, przez jakiś czas nie zaznam takich luksusów. Mój wzrok ląduje na podłodze, wczoraj zostawiłem pakowanie w fazie największego chaosu. Wszędzie walają się ubrania i sprzęt górski, na samą myśl że będę musiał upchnąć to wszystko do leżącej w rogu wielkiej żółtej torby i mniejszego szarego plecaka mam ochotę nie wychodzić z łóżka.
+Jednak kilka godzin później udaj się jakoś domknąć zamek. Jedzenie
+
+![food](/images/food_before_expedition.png)
+
+już się nie zmieściło, ląduje więc w bagażu podręcznym, podobnie jak kilka innych rzeczy potrzebnych w podróży.
+
 
 O 22.30 czekam już na dworcu w Katowicach skąd bus klubowy zabiera nas w pierwszy etap naszej przygody, na lotnisko Tegel w Berlinie. Rozglądam się, szukając wśród przechodniów ludzi objuczonych podobnie do mnie. Spostrzegam wtedy jegomościa z długą siwą brodą i dwoma plecakami. W pierwszej chwili pomyślałem że oto znalazłem jednego z towarzyszy mojej podróży ale szybka weryfikacja rozmiaru jego bagażu sprawiła, że zacząłem w to wątpić. Jednak postanowiłem podejść i zagadać. Tak poznałem Janka, weterana-minimalistę, który na widok mojej wielkiej torby tylko uśmiechnął się szeroko. Zaraz później dołączył do nas kolejny zawodnik. Swoją ogromną niebieską torbę bez trudu przytaszczył w jednej ręce. Jego groźny wzrok złagodził miły głos którym się z nami przywitał. Więc czekaliśmy we 3 Janek, Sławek (bo tak nazywał się najnowszy towarzysz) i Ja. Rozmowa niespecjalnie się kleiła, a ja miałem coraz poważniejsze wątpliwości czy uda nam się złapać dobry kontakt podczas wyprawy. Wyglądaliśmy jak ludzie z 3 zupełnie różnych bajek. Janek z wykształcenia ekonomista a obecnie dobijający do emerytury urzędnik z Kwidzynia, Sławek krótko ostrzyżony facet koło 40, na co dzień pracujący w ochronie w okolicach Nowego Sącza i Ja student, programista z Żywca. Wtedy jeszcze nie wiedziałem, że z Jankiem będę dzielił namiot w obozie wysuniętym, a wiek po raz kolejny okaże się tylko cyferką, natomiast ze Sławkiem na jednej linie będziemy zdobywać pierwszy ze szczytów już kilka tygodniu później.
 
@@ -51,6 +57,9 @@ W końcu, z lekkim poślizgiem, na stację zajeżdża nasza srebrna strzała. Na
 
 Dołącz do nas ostatni członek naszej ekipy startującej z Katowic. Ania, prezes sądu z Bytomia, której aparycja wydaje się odpowiadać piastowanemu stanowisku. Jednak tak jak w poprzednich przypadkach, pozory okazały się złudne, a Ania bardzo miłą i przyjazną osobą.
 
-Po drodzę nasza epika stawała się coraz okazalsza. Najpierw we Wrocławiu dołączył do nas Krystian, młoda nadzieje polskiego alpinizmu, który z powodu niedawnego skręcenia kostki musiał tym razem zadowolić się tylko rolą kierowcy. Później w koło Legnicy do Busa wskoczyła Monia aka “Atrakcyjna Blondynka” <LINK DO WYWIADU>, zawsze uśmiechnięta nauczycielka wf-u o niespożytych siłach. W takim składzie dotarliśmy na Berlińskie lotnisko gdzie czekał na Nas przedostatni członek ekspedycji - Dawid który przyjechał prosto z Gniezna.
+Po drodzę nasza epika stawała się coraz okazalsza. Najpierw we Wrocławiu dołączył do nas Krystian, młoda nadzieje polskiego alpinizmu, który z powodu niedawnego skręcenia kostki musiał tym razem zadowolić się tylko rolą kierowcy. Później w koło Legnicy do Busa wskoczyła Monia aka “Atrakcyjna Blondynka” ([tutaj](https://www.legnica.fm/wiadomosci/wiadomosci-sport/29-sport-jawor/21556-6-000-m-na-100-lecie-niepodleglej-polski-blondynki-z-jawora) bardzo ciekawy wywiad z Moniką), zawsze uśmiechnięta nauczycielka wf-u o niespożytych siłach. W takim składzie dotarliśmy na Berlińskie lotnisko gdzie czekał na Nas przedostatni członek ekspedycji - Dawid który przyjechał prosto z Gniezna.
 
-Na miejscu jeszcze szybkie przepakowanie by każdy zmieścił się w limicie 30kg na torbę. Po nadaniu bagaży mieliśmy jeszcze 2 godziny do boardingu które każdy wykorzystał by nadrobić choć trochę snu. <ZDJĘCI SPANIA NA LOTNISKU>.
+Na miejscu jeszcze szybkie przepakowanie by każdy zmieścił się w limicie 30kg na torbę. Po nadaniu bagaży mieliśmy jeszcze 2 godziny do boardingu które każdy wykorzystał by nadrobić choć trochę snu...
+![sleeping_1](/images/berlin_airport_sleeping_1.png)
+![sleeping_1](/images/berlin_airport_sleeping_2.png)
+![sleeping_1](/images/berlin_airport_sleeping_3.png)
