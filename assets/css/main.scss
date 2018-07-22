@@ -6,3 +6,8 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+.thumbnail {
+    max-width: 300px;
+    max-height: 300px; 
+}

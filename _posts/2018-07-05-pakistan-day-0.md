@@ -60,6 +60,15 @@ Dołącz do nas ostatni członek naszej ekipy startującej z Katowic. Ania, prez
 Po drodzę nasza epika stawała się coraz okazalsza. Najpierw we Wrocławiu dołączył do nas Krystian, młoda nadzieje polskiego alpinizmu, który z powodu niedawnego skręcenia kostki musiał tym razem zadowolić się tylko rolą kierowcy. Później w koło Legnicy do Busa wskoczyła Monia aka “Atrakcyjna Blondynka” ([tutaj](https://www.legnica.fm/wiadomosci/wiadomosci-sport/29-sport-jawor/21556-6-000-m-na-100-lecie-niepodleglej-polski-blondynki-z-jawora) bardzo ciekawy wywiad z Moniką), zawsze uśmiechnięta nauczycielka wf-u o niespożytych siłach. W takim składzie dotarliśmy na Berlińskie lotnisko gdzie czekał na Nas przedostatni członek ekspedycji - Dawid który przyjechał prosto z Gniezna.
 
 Na miejscu jeszcze szybkie przepakowanie by każdy zmieścił się w limicie 30kg na torbę. Po nadaniu bagaży mieliśmy jeszcze 2 godziny do boardingu które każdy wykorzystał by nadrobić choć trochę snu...
-![sleeping_1](/images/berlin_airport_sleeping_1.png)
-![sleeping_1](/images/berlin_airport_sleeping_2.png)
-![sleeping_1](/images/berlin_airport_sleeping_3.png)
+
+{% raw %}
+<a href="/images/berlin_airport_sleeping_1.png" data-lightbox="image-1" data-title="My caption"><img src="/images/berlin_airport_sleeping_1.png" class="thumbnail"/></a>
+<a href="/images/berlin_airport_sleeping_2.png" data-lightbox="image-1" data-title="My caption"><img src="/images/berlin_airport_sleeping_2.png" class="thumbnail"/></a>
+<a href="/images/berlin_airport_sleeping_3.png" data-lightbox="image-1" data-title="My caption"><img src="/images/berlin_airport_sleeping_3.png" class="thumbnail"/></a>
+{% endraw %}
+
+<!-- {% include lightbox2.html img_src="/images/berlin_airport_sleeping_1.png" img_data="image-1" caption="STH" %} -->
+
+<!-- ![sleeping_1](/images/berlin_airport_sleeping_1.png)-->
+<!-- ![sleeping_2](/images/berlin_airport_sleeping_2.png) -->
+<!-- ![sleeping_3](/images/berlin_airport_sleeping_3.png) -->
